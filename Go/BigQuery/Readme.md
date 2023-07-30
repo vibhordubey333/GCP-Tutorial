@@ -6,8 +6,11 @@
    ![image](https://github.com/vibhordubey333/GCP-Tutorial/assets/22407855/6ad397df-d4a7-462c-b292-866b79149cd0)
 4. Click on "Stack Overflow"
    ![image](https://github.com/vibhordubey333/GCP-Tutorial/assets/22407855/b2d4f6b9-f054-4ab3-aaf4-1e3969c7b471)
-5. We've to perform query on badge table.
-  
+5. We've to perform query on badge table. <br/>
+   For viewing shortcut<br/>
+   ![image](https://github.com/vibhordubey333/GCP-Tutorial/assets/22407855/429a3324-f014-4d22-bf00-d0218a972b99)
+
+
   ```
   SELECT badge_name AS First_Gold_Badge,
 COUNT(1) AS Num_Users,
