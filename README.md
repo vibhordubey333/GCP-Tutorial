@@ -3,3 +3,8 @@
 
 #### Data Analytics Services And Their Purpose.
 ![image](https://github.com/vibhordubey333/GCP-Tutorial/assets/22407855/9d141650-6ab7-4574-8498-c1069bdb7b84)
+
+#### Use Cases for GCP ML & AI Services.
+![image](https://github.com/vibhordubey333/GCP-Tutorial/assets/22407855/f2062524-9dad-472d-851d-654be33f2c02)
+
+
