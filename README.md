@@ -7,4 +7,7 @@
 #### Use Cases for GCP ML & AI Services.
 ![image](https://github.com/vibhordubey333/GCP-Tutorial/assets/22407855/f2062524-9dad-472d-851d-654be33f2c02)
 
+#### Use Cases For Google Cloud DevOps Services.
+![image](https://github.com/vibhordubey333/GCP-Tutorial/assets/22407855/abc158fe-870f-41f7-87fd-8ee1b27419e5)
+
 
