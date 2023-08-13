@@ -10,4 +10,6 @@
 #### Use Cases For Google Cloud DevOps Services.
 ![image](https://github.com/vibhordubey333/GCP-Tutorial/assets/22407855/abc158fe-870f-41f7-87fd-8ee1b27419e5)
 
+#### Big Picture Of Anthos
+![image](https://github.com/vibhordubey333/GCP-Tutorial/assets/22407855/32e57107-77b3-4357-9f6d-a7a917854e64)
 
